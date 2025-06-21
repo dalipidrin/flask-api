@@ -1,6 +1,6 @@
-# 🏦 Validata API
+# 🏦 Flask API
 
-The Validata REST API for managing banks. This API allows you to create, update, delete, list, and retrieve bank details. 
+The Flask REST API for managing banks. This API allows you to create, update, delete, list, and retrieve bank details. 
 It uses **Microsoft SQL Server** as the database and **SQLAlchemy** as the ORM.
 
 ---
